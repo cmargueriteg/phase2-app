@@ -1,0 +1,97 @@
+{
+    "dogs": [
+     {
+       "id": 1,
+       "name": "Doe",
+       "image": "https://i.ibb.co/mT4DrDG/images-q-tbn-ANd9-Gc-SXa-QNQ0-Ylaf-Qxq1b5bb-C60-Rn-OFYZMO-r-Df-SA-usqp-CAU.jpg",
+       "age": 2,
+       "breed": "Chinook",
+       "Sex": "Female"
+
+     },
+     {
+       "id": 2,
+       "name": "Ray",
+       "image": "https://i.ibb.co/r5MLrTT/Gouda-Seppala-Siberian-Sled-Dog-Snowy-Owl-Sled-Dog-Tours-Canmore-Alberta.jpg",
+       "age": 2,
+       "breed": "Alaskan husky",
+       "Sex": "Male"
+     },
+     {
+       "id": 3,
+       "name": "Miso",
+       "image": "https://i.ibb.co/1KmkYdD/Athos.jpg",
+       "age": 1,
+       "breed": "Alaskan husky",
+       "Sex":"Male"
+
+     },
+     {
+       "id": 4,
+       "name": "Snow",
+       "image": "https://i.ibb.co/pZLMCWH/White-Husky.jpg",
+       "age": 3,
+       "breed": "Siberian husky",
+       "Sex":"Female"
+     },
+     {
+       "id": 5,
+       "name": "Meadow",
+       "image": "https://i.ibb.co/171YDJV/Agouti-Husky-lying-on-thick-snow.jpg",
+       "age": 2,
+       "breed":"Alaskan husky",
+       "Sex":"Female"
+     },
+     {
+       "id": 6,
+       "name": "Buzz",
+       "image": "https://i.ibb.co/vPSJ7nR/Chinook-Featured-Image.webp",
+       "age": 4,
+       "breed":"Chinook",
+       "Sex":"Male"
+     },
+   {
+       "id": 7,
+       "name": "Radar",
+       "image": "https://i.ibb.co/WxvxTn3/Alaskan-husky-Facts-Dog-Breed-Information.jpg",
+       "age": 4,
+       "breed":"Alaskan husky",
+       "Sex":"Male"
+       },
+    {
+       "id": 8,
+       "name": "Honey",
+       "image": "https://i.ibb.co/HgP4PYg/800px-Siberian-husky-1291343-1920.jpg",
+       "age": 4,
+       "breed":"Siberian husky",
+       "Sex":"Female"
+    },
+   {
+        "id": 10,
+        "name": "Thor",
+        "image": "https://i.ibb.co/mbYJYGL/siberian-husky-sitting-Aleksandr-Abrosimov-Shutterstock.jpg",
+        "age": 5,
+        "breed":"Siberian husky",
+        "Sex":"Male"
+   },
+   {
+        "id": 11,
+        "name": "Halo",
+        "image": "https://i.ibb.co/NSDYVP2/284c7023128ed7c929018b47a59fa578.jpg",
+        "age": 5,
+        "breed":"Siberian husky",
+        "Sex":"Male"
+   },
+   {
+           "id": 12,
+           "name": "May",
+           "image": "https://i.ibb.co/0Dv8WDJ/article-image-horiz-104.jpg",
+           "age": 3,
+           "breed":"Siberian husky",
+           "Sex":"Female"
+   }
+  
+
+       ]
+   
+ }
