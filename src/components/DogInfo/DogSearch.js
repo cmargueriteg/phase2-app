@@ -8,4 +8,4 @@ function DogSearch() {
   )
 }
 
-export default DogSearch
+export {DogSearch}

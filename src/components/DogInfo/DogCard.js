@@ -8,4 +8,4 @@ function DogCard() {
   )
 }
 
-export default DogCard
+export {DogCard}

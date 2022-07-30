@@ -8,4 +8,4 @@ function DogCollection() {
   )
 }
 
-export default DogCollection
+export {DogCollection}

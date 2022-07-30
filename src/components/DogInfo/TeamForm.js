@@ -8,4 +8,4 @@ function TeamForm() {
   )
 }
 
-export default TeamForm
+export {TeamForm}

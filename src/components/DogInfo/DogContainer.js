@@ -8,4 +8,4 @@ function DogContainer() {
   )
 }
 
-export DogContainer
+export {DogContainer}

@@ -1,6 +1,6 @@
 
 
-function NavBar() {
+function Home() {
   return (
     <div>
       
@@ -8,4 +8,6 @@ function NavBar() {
   )
 }
 
-export {NavBar}
+export {Home}
+
+
