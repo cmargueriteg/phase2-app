@@ -26,7 +26,7 @@ function App() {
             <DogContainer />
           </Route>
           
-          <Route path="/dogs/new">
+          <Route path="/dogs/build">
             <TeamForm />
 
           </Route>
