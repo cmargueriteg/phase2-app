@@ -1,14 +1,11 @@
 
 import './App.css';
-import { useState, useEffect} from 'react';
 import { BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import { DogContainer } from './DogInfo/DogContainer';
-import { DogCard } from './DogInfo/DogCard';
-import { DogCollection } from './DogInfo/DogCollection';
+import { TeamForm } from './DogInfo/TeamForm';
 import { NavBar } from './Navigation/NavBar'
 import { Header } from './Navigation/Header';
-import { TeamForm } from './DogInfo/TeamForm';
-import {Home} from './Home'
+import { Home } from './Home'
 
 
 
@@ -26,7 +23,7 @@ function App() {
             <DogContainer />
           </Route>
           
-          <Route path="/dogs/build">
+          <Route path="/build">
             <TeamForm />
 
           </Route>
