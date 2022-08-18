@@ -9,12 +9,14 @@ function DogContainer() {
 const [dogs, setDogs] = useState([])
 
 const fetchData = () => {
-fetch("http://localhost:3001/dogs")
+fetch("http://localhost:3000/dogs")
 .then(resp => resp.json())
 .then(data => setDogs(data))}
 
 useEffect (() => {
   fetchData()
+
+  
 }, [])
 
 
@@ -23,6 +25,7 @@ useEffect (() => {
     <div>
       <DogCollection dogs={dogs}/>
       <DogSearch />
+      
       
     </div>
   )

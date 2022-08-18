@@ -19,7 +19,7 @@ function App() {
           <NavBar />
           <Header />
           <Switch>
-          <Route path="/dogs">
+          <Route path="/doglist">
             <DogContainer />
           </Route>
           
